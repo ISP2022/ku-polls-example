@@ -5,7 +5,7 @@ with additional functionality.
 
 This application is part of the [Individual Software Process](https://cpske.github.io/ISP) course at [Kasetsart University](https://ku.ac.th).
 
-## Requirements
+## How to Install and Run
 
 To be added.
 
